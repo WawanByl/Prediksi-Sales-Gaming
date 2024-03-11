@@ -1,2 +1,2 @@
-# belajar_git
-Saya sedang belajar Git.
+# Kumpulan kode
+Kumpulan kode
